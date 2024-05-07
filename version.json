@@ -2,9 +2,9 @@
   "Configurations": [
     {
       "Board": "1.0",
-      "Config": "DEBUG",
+      "Config": "DEV",
       "Version": "1.0.1",
-      "URL": "https://raw.githubusercontent.com/tsuki-co/hvac-controller-firmware/main/firmware/tsuki-hvac-controller-v1.0.DEBUG.v1.0.1.bin"
+      "URL": "https://raw.githubusercontent.com/tsuki-co/hvac-controller-firmware/main/firmware/tsuki-hvac-controller-v1.0.DEV.v1.0.1.bin"
     },
     {
       "Board": "1.0",

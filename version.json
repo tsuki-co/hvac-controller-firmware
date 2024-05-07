@@ -1,0 +1,16 @@
+{
+  "Configurations": [
+    {
+      "Board": "1.0",
+      "Config": "DEBUG",
+      "Version": "1.0.1",
+      "URL": "https://raw.githubusercontent.com/tsuki-co/hvac-controller-firmware/main/firmware/tsuki-hvac-controller-v1.0.DEBUG.v1.0.1.bin"
+    },
+    {
+      "Board": "1.0",
+      "Config": "RELEASE",
+      "Version": "1.0.1",
+      "URL": "https://raw.githubusercontent.com/tsuki-co/hvac-controller-firmware/main/firmware/tsuki-hvac-controller-v1.0.RELEASE.v1.0.1.bin"
+    }
+  ]
+}

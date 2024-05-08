@@ -3,14 +3,8 @@
     {
       "Board": "1.0",
       "Config": "DEV",
-      "Version": "1.0.1",
-      "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.1/hvac-controller-v1.0.240508.v1.0.1-DEV.bin"
-    },
-    {
-      "Board": "1.0",
-      "Config": "RELEASE",
-      "Version": "1.0.1",
-      "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.1/hvac-controller-v1.0.240508.v1.0.1-RELEASE.bin"
+      "Version": "1.0.3",
+      "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.3/hvac-controller-v1.0.240508.v1.0.3-DEV.bin"
     },
     {
       "Board": "1.0",
@@ -21,8 +15,14 @@
     {
       "Board": "1.0",
       "Config": "DEV",
-      "Version": "1.0.3",
-      "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.3/hvac-controller-v1.0.240508.v1.0.3-DEV.bin"
+      "Version": "1.0.1",
+      "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.1/hvac-controller-v1.0.240508.v1.0.1-DEV.bin"
+    },
+    {
+      "Board": "1.0",
+      "Config": "RELEASE",
+      "Version": "1.0.1",
+      "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.1/hvac-controller-v1.0.240508.v1.0.1-RELEASE.bin"
     }
   ]
 }

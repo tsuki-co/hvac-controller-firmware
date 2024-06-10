@@ -3,6 +3,12 @@
     {
       "Board": "1.0",
       "Config": "DEV",
+      "Version": "1.0.5",
+      "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.5/hvac-controller-v1.0.240610.v1.0.5-DEV.bin"
+    },
+    {
+      "Board": "1.0",
+      "Config": "DEV",
       "Version": "1.0.4",
       "URL": "https://tsuki-co.github.io/hvac-controller-firmware/1.0.4/hvac-controller-v1.0.240508.v1.0.4-DEV.bin"
     },
